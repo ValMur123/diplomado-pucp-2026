@@ -1,7 +1,7 @@
 # diplomado-pucp-2026
 This is a repo for the python course in PUCP
 
-# Student
+# Students
 1. Victor Guardia
 2. Victor Roman
 3. Noelia Leon
